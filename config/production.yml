@@ -1,2 +1,5 @@
+server:
+  origin: 'http://mygreatwebsite.com'
+
 db:
   synchronize: false
